@@ -1,4 +1,3 @@
-# demo-cloud-nsearch
 
 This demo tf project creates you a private sn, asg, s3, alb and upload files under src, output will be the alb endpoint
 please use the alb endpoint to access the application
